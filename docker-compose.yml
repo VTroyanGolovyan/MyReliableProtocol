@@ -1,0 +1,7 @@
+services:
+  protocol:
+    image: protocol
+    build:
+      context: .
+      dockerfile: Dockerfile
+    privileged: true
