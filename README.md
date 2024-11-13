@@ -1,0 +1,2 @@
+# MyReliableProtocol
+Consistent
